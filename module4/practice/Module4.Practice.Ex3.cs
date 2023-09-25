@@ -22,7 +22,7 @@ namespace ConsoleApp2
 
         public override string ToString()
         {
-            return $"{Title} by {Author}, {Year}";
+            return $"{Title} Автор: {Author}, {Year}";
         }
     }
 
