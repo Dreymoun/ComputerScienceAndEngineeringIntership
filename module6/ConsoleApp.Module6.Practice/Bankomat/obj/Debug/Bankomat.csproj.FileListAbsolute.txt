@@ -1,0 +1,6 @@
+C:\Users\FalkovskiyD\source\repos\ConsoleApp.Module6.Practice\Bankomat\bin\Debug\Bankomat.dll
+C:\Users\FalkovskiyD\source\repos\ConsoleApp.Module6.Practice\Bankomat\bin\Debug\Bankomat.pdb
+C:\Users\FalkovskiyD\source\repos\ConsoleApp.Module6.Practice\Bankomat\obj\Debug\Bankomat.csproj.AssemblyReference.cache
+C:\Users\FalkovskiyD\source\repos\ConsoleApp.Module6.Practice\Bankomat\obj\Debug\Bankomat.csproj.CoreCompileInputs.cache
+C:\Users\FalkovskiyD\source\repos\ConsoleApp.Module6.Practice\Bankomat\obj\Debug\Bankomat.dll
+C:\Users\FalkovskiyD\source\repos\ConsoleApp.Module6.Practice\Bankomat\obj\Debug\Bankomat.pdb

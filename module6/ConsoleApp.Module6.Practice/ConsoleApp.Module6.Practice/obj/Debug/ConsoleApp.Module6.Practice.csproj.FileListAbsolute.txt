@@ -1,0 +1,10 @@
+C:\Users\FalkovskiyD\source\repos\ConsoleApp.Module6.Practice\ConsoleApp.Module6.Practice\bin\Debug\ConsoleApp.Module6.Practice.exe.config
+C:\Users\FalkovskiyD\source\repos\ConsoleApp.Module6.Practice\ConsoleApp.Module6.Practice\bin\Debug\ConsoleApp.Module6.Practice.exe
+C:\Users\FalkovskiyD\source\repos\ConsoleApp.Module6.Practice\ConsoleApp.Module6.Practice\bin\Debug\ConsoleApp.Module6.Practice.pdb
+C:\Users\FalkovskiyD\source\repos\ConsoleApp.Module6.Practice\ConsoleApp.Module6.Practice\bin\Debug\Bankomat.dll
+C:\Users\FalkovskiyD\source\repos\ConsoleApp.Module6.Practice\ConsoleApp.Module6.Practice\bin\Debug\Bankomat.pdb
+C:\Users\FalkovskiyD\source\repos\ConsoleApp.Module6.Practice\ConsoleApp.Module6.Practice\obj\Debug\ConsoleApp.Module6.Practice.csproj.AssemblyReference.cache
+C:\Users\FalkovskiyD\source\repos\ConsoleApp.Module6.Practice\ConsoleApp.Module6.Practice\obj\Debug\ConsoleApp.Module6.Practice.csproj.CoreCompileInputs.cache
+C:\Users\FalkovskiyD\source\repos\ConsoleApp.Module6.Practice\ConsoleApp.Module6.Practice\obj\Debug\ConsoleApp.Module6.Practice.csproj.CopyComplete
+C:\Users\FalkovskiyD\source\repos\ConsoleApp.Module6.Practice\ConsoleApp.Module6.Practice\obj\Debug\ConsoleApp.Module6.Practice.exe
+C:\Users\FalkovskiyD\source\repos\ConsoleApp.Module6.Practice\ConsoleApp.Module6.Practice\obj\Debug\ConsoleApp.Module6.Practice.pdb
