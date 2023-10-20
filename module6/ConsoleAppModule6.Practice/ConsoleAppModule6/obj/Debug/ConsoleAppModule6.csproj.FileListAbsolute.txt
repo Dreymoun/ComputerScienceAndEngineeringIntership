@@ -1,0 +1,10 @@
+C:\Users\FalkovskiyD\source\repos\ConsoleAppModule6\ConsoleAppModule6\bin\Debug\ConsoleAppModule6.exe.config
+C:\Users\FalkovskiyD\source\repos\ConsoleAppModule6\ConsoleAppModule6\bin\Debug\ConsoleAppModule6.exe
+C:\Users\FalkovskiyD\source\repos\ConsoleAppModule6\ConsoleAppModule6\bin\Debug\ConsoleAppModule6.pdb
+C:\Users\FalkovskiyD\source\repos\ConsoleAppModule6\ConsoleAppModule6\bin\Debug\MyLibrary.dll
+C:\Users\FalkovskiyD\source\repos\ConsoleAppModule6\ConsoleAppModule6\bin\Debug\MyLibrary.pdb
+C:\Users\FalkovskiyD\source\repos\ConsoleAppModule6\ConsoleAppModule6\obj\Debug\ConsoleAppModule6.csproj.AssemblyReference.cache
+C:\Users\FalkovskiyD\source\repos\ConsoleAppModule6\ConsoleAppModule6\obj\Debug\ConsoleAppModule6.csproj.CoreCompileInputs.cache
+C:\Users\FalkovskiyD\source\repos\ConsoleAppModule6\ConsoleAppModule6\obj\Debug\ConsoleAppModule6.csproj.CopyComplete
+C:\Users\FalkovskiyD\source\repos\ConsoleAppModule6\ConsoleAppModule6\obj\Debug\ConsoleAppModule6.exe
+C:\Users\FalkovskiyD\source\repos\ConsoleAppModule6\ConsoleAppModule6\obj\Debug\ConsoleAppModule6.pdb
