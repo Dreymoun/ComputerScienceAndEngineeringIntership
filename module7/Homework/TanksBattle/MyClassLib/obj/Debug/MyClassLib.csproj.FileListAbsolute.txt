@@ -1,0 +1,6 @@
+C:\Users\FalkovskiyD\source\repos\TanksBattle\MyClassLib\bin\Debug\MyClassLib.dll
+C:\Users\FalkovskiyD\source\repos\TanksBattle\MyClassLib\bin\Debug\MyClassLib.pdb
+C:\Users\FalkovskiyD\source\repos\TanksBattle\MyClassLib\obj\Debug\MyClassLib.csproj.AssemblyReference.cache
+C:\Users\FalkovskiyD\source\repos\TanksBattle\MyClassLib\obj\Debug\MyClassLib.csproj.CoreCompileInputs.cache
+C:\Users\FalkovskiyD\source\repos\TanksBattle\MyClassLib\obj\Debug\MyClassLib.dll
+C:\Users\FalkovskiyD\source\repos\TanksBattle\MyClassLib\obj\Debug\MyClassLib.pdb

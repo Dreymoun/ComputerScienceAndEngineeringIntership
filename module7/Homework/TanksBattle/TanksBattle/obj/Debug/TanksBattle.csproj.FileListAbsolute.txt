@@ -1,0 +1,10 @@
+C:\Users\FalkovskiyD\source\repos\TanksBattle\TanksBattle\bin\Debug\TanksBattle.exe.config
+C:\Users\FalkovskiyD\source\repos\TanksBattle\TanksBattle\bin\Debug\TanksBattle.exe
+C:\Users\FalkovskiyD\source\repos\TanksBattle\TanksBattle\bin\Debug\TanksBattle.pdb
+C:\Users\FalkovskiyD\source\repos\TanksBattle\TanksBattle\bin\Debug\MyClassLib.dll
+C:\Users\FalkovskiyD\source\repos\TanksBattle\TanksBattle\bin\Debug\MyClassLib.pdb
+C:\Users\FalkovskiyD\source\repos\TanksBattle\TanksBattle\obj\Debug\TanksBattle.csproj.AssemblyReference.cache
+C:\Users\FalkovskiyD\source\repos\TanksBattle\TanksBattle\obj\Debug\TanksBattle.csproj.CoreCompileInputs.cache
+C:\Users\FalkovskiyD\source\repos\TanksBattle\TanksBattle\obj\Debug\TanksBattle.csproj.CopyComplete
+C:\Users\FalkovskiyD\source\repos\TanksBattle\TanksBattle\obj\Debug\TanksBattle.exe
+C:\Users\FalkovskiyD\source\repos\TanksBattle\TanksBattle\obj\Debug\TanksBattle.pdb
