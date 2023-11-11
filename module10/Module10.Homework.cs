@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using System.IO;
 
-namespace Module8.Practice
+namespace Module10.Homework
 {
     public interface ICalculatable
     {
